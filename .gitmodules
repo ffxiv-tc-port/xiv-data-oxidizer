@@ -1,4 +1,4 @@
 [submodule "schemas"]
   path = schemas
-  url = https://github.com/xivdev/EXDSchema
-  branch = latest
+	url = https://github.com/ffxiv-tc-port/EXDSchema.git
+	branch = ver/2025.07.30.0000.0000
